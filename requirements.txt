@@ -1,0 +1,5 @@
+pyodbc
+uvicorn
+fastapi
+pydantic
+starlette
